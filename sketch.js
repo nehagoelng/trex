@@ -65,6 +65,7 @@ function setup() {
   obstaclesGroup = new Group();
   
   score = 0;
+  console.log("hello");
 }
 
 function draw() {
